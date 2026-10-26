@@ -1,0 +1,19 @@
+MANUAL DEL EMPLEADO - SOLARIS TECH
+
+1. Horario de atención
+Solaris Tech atiende al público de lunes a viernes de 9:00 a 18:00 y los sábados de 9:00 a 13:00. Los domingos y feriados nacionales la oficina permanece cerrada. Durante el horario de almuerzo, de 13:00 a 14:00, la atención presencial se reduce a una sola persona en recepción, pero el soporte por correo y chat continúa con normalidad.
+
+2. Vacaciones y permisos
+Todos los empleados tienen derecho a 20 días hábiles de vacaciones al año. Las vacaciones se solicitan con al menos 15 días de anticipación a través del portal de recursos humanos y deben ser aprobadas por el jefe directo. Es posible fraccionar las vacaciones en bloques de mínimo 5 días. Los permisos por motivos personales de hasta 2 días al año no descuentan vacaciones, pero requieren aviso previo. Las licencias por enfermedad exigen presentar un certificado médico dentro de las 48 horas siguientes a la ausencia.
+
+3. Reembolsos de gastos
+Para solicitar el reembolso de un gasto de trabajo, el empleado debe enviar la factura original escaneada al correo finanzas@solaris.example indicando el motivo del gasto y el centro de costo. Los reembolsos se procesan los días viernes y se depositan en la cuenta del empleado en un plazo máximo de 7 días hábiles. Gastos superiores a 500 soles necesitan aprobación previa del gerente de área. No se reembolsan gastos sin comprobante de pago válido.
+
+4. Trabajo remoto
+Solaris Tech permite el trabajo remoto hasta 2 días por semana, previo acuerdo con el jefe directo. El empleado debe estar disponible en el horario laboral habitual y contar con una conexión a internet estable. La empresa entrega una laptop corporativa que debe usarse con la VPN activa cada vez que se acceda a sistemas internos. Está prohibido guardar información de clientes en dispositivos personales.
+
+5. Oficinas y contacto
+La oficina principal de Solaris Tech queda en la Av. Principal 123, Lima, a dos cuadras de la estación del metropolitano. Existe una sucursal en Arequipa, en la Calle Mercaderes 456, que atiende en el mismo horario. Para consultas generales se puede escribir a contacto@solaris.example o llamar al (01) 555-0100. Para urgencias de sistemas, el equipo de soporte atiende en la extensión 200 las 24 horas.
+
+6. Evaluación de desempeño
+Cada empleado recibe una evaluación de desempeño dos veces al año, en junio y en diciembre. La evaluación considera el cumplimiento de objetivos, el trabajo en equipo y la iniciativa. Los resultados determinan los aumentos salariales y los bonos anuales. El empleado puede presentar sus comentarios por escrito y solicitar una reunión de revisión con recursos humanos dentro de los 10 días posteriores a recibir su evaluación.

@@ -1,0 +1,10 @@
+Responde la pregunta usando ÚNICAMENTE el contexto de abajo.
+Responde en el mismo idioma de la pregunta.
+Si la respuesta no está en el contexto, di que no tienes esa información en los documentos.
+No uses conocimiento externo ni inventes datos.
+
+CONTEXTO:
+{context}
+
+PREGUNTA:
+{question}
